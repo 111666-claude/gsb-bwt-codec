@@ -43,7 +43,7 @@ go run ./cmd/bwt-codec --repeat 5000 --roundtrip --rle
 ```
 bwt=nnbaaa primary=3 bytes=6
 roundtrip=true
-rle_bytes=4
+rle_bytes=3
 ```
 
 ## 目录
